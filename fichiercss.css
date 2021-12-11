@@ -1,0 +1,139 @@
+.titre{
+    font-size:34px;
+    padding-left: 700px;
+    padding-right: 700px;
+    font-weight: bold;
+}
+.haut{
+    font-size:20px;
+}
+.page{
+    background-color: rgb(216, 243, 220) ;
+}
+header ul li p{
+    background-color: rgb(116, 198, 157);
+    border:solid;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 40px;
+}
+header ul{
+    display: flex;
+    list-style: none;
+}
+
+header ul li a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+h2,h3{
+    padding-left: 75px;
+}
+.textA{
+    margin-left: 100px;
+}
+.textB{
+    padding-left: 150px;
+}
+footer{
+    background-color: rgb(64, 145, 108);
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+footer ul{
+    list-style: none;
+}
+footer ul li{
+    padding-bottom: 5px;
+}
+.rect{
+    background:rgb(149, 213, 178);
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.rect1{
+    background:rgb(149, 213, 178);
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    margin-bottom: 50px;
+    border: solid;
+}
+.rectangle {
+    margin-left: 40px;
+    width: 300px;
+    height: 1400px;
+    border: solid;
+    background-color: rgb(216, 243, 220);
+    
+}
+.NavGrosTitre {
+    font-size: x-large;
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.NavMoyenTitre {
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 40px;
+}
+.rectanglebleu {
+    margin-top: -1400px;
+    margin-left: 450px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    border-top-left-radius : 100px 100px;
+    border-top-right-radius : 100px 100px;
+    background-color: rgb(216, 243, 220);
+    border: solid;
+}
+.rectanglerouge {
+    margin-top: -1400px;
+    margin-left: 450px;
+    padding-right: 10px;
+    border-top-left-radius : 100px 100px;
+    border-top-right-radius : 100px 100px;
+    background-color: rgb(216, 243, 220);
+    border: solid;
+}
+.ecriture1 {
+    font-size: x-large;
+    position: relative;
+}
+.gras {
+    font-size: x-large;
+    position: relative;
+    font-weight: bold;
+    top: 300px;
+    left: 300px;
+}
+.GrosTitre {
+    font-size: 100px;
+    text-align: center;
+}
+.MoyenTitre {
+    font-size: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.PetitTitre {
+    font-size: 35px;
+    padding-left: 40px;
+    padding-right: 20px;
+}
+.CorpsTexte {
+    font-size: x-large;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+body {
+    background: linear-gradient(to bottom , rgb(224, 231, 224), rgb(40, 214, 34));
+}
